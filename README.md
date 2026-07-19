@@ -1,6 +1,6 @@
 # CWK CREATE
 
-CWK Create is a command-line tool that automates the setup of new web development projects
+CWK Create is an open-source Baash command-line tool that automates the setup of new web development projects
 
 ## Planned Features
 
